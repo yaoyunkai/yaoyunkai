@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yaoyunkai
-- 👀 I’m interested in Python & MySQL
+- 👀 I’m interested in Python
 
 <!---
 yaoyunkai/yaoyunkai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
